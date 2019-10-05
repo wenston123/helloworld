@@ -6,3 +6,4 @@ glossary = {
     'loop': 'Work through a collection of items, one at a time.',
     'dictionary': "A collection of key-value pairs.",
     }
+我们在进行一次新的尝试。
